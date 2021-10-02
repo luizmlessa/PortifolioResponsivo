@@ -1,1 +1,3 @@
---Portifólio online do meu trabalho--
+--Portifólio resposivo online --
+
+Poderia catalogar nessa pag meus conhecimentos e um pouco sobre mim
